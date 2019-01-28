@@ -6,5 +6,5 @@
 </head>
 <body>
     这是我的一个网站
-  </body>
-  </html>
+ </body>
+ </html>
