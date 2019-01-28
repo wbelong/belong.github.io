@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>在github上搭建个人站</title>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+        h1{
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
 </head>
 <body>
-    这是我的一个网站
- </body>
- </html>
+    <h1>Hello Github</h1>   
+</body>
+</html>
